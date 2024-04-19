@@ -1,0 +1,13 @@
+.Nav{
+    background: rgb(54, 54, 54);
+    display: flex;
+    box-shadow: 1px 10px 10px 1px rgba(0, 0, 0, 0.4);
+    padding: 2vh;
+    text-align: center;
+}
+
+.title{
+    margin-left: 5vh;
+    align-content: center;
+    margin-top: 3vh;
+}
